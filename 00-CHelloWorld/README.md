@@ -1,2 +1,2 @@
 # SSL
-Repositorio de la materia "Sintaxis y Semántica de los Lenguajes" utn
+Resolucion ejercicio 3 "'Hello, World!' en c"
